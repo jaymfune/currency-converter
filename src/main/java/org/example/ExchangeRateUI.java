@@ -44,8 +44,12 @@ public class ExchangeRateUI {
 
         try {
             currencyConverter.convertCurrency(baseCurrency, targetCurrency, amount);
-        } catch (IOException | InterruptedException e) {
-            throw new RuntimeException(e);
+        } catch (IOException e) {
+            // Error message for input/output operations.
+            System.err.println("An error occurred while fetching the exchange rate data. Please try again later.");
+        } catch (InterruptedException e) {
+            // Error message for interruption in the conversion process.
+            System.err.println("The currency conversion process was interrupted. Please try again later.");
         }
 
         input.close();
