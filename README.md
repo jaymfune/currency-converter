@@ -68,14 +68,6 @@ Please note that the application uses a free API key to access the Free Currency
 - Double-check the input for base currency and target currency. Ensure they are valid currency codes (e.g., "USD", "EUR", "ZAR", "CAD").
 - If the application fails to fetch exchange rate data, verify your internet connection and check if the Free Currency API is operational.
 
-## Contributions
-
-Contributions to this Currency Converter project are welcome! Feel free to open issues, suggest improvements, or create pull requests.
-
-## License
-
-This Currency Converter application is open-source and licensed under the MIT License. Feel free to use, modify, and distribute it in accordance with the terms of the MIT License.
-
 ## Contact
 
 For any questions or inquiries about the Currency Converter application, you can contact [jacobmfune2@gmail.com](mailto:jacobmfune2@gmail.com).
