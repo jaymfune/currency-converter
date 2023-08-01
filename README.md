@@ -78,6 +78,6 @@ This Currency Converter application is open-source and licensed under the MIT Li
 
 ## Contact
 
-For any questions or inquiries about the Currency Converter application, you can contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries about the Currency Converter application, you can contact [jacobmfune2@gmail.com](mailto:jacobmfune2@gmail.com).
 
 Happy currency converting! 🚀
